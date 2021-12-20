@@ -1,7 +1,0 @@
-invoice page not showing
-line 101. header.php
-
-DAshboard counter for gadgets not increasing
-
-deleting error tasks.php
-MysqliDb.
